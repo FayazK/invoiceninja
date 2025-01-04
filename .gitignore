@@ -9,7 +9,6 @@
 /vendor
 /app/Console/Commands/vendor/
 /.idea
-/.vscode
 /.vagrant
 /tests/_output
 Homestead.json
@@ -41,3 +40,6 @@ _ide_helper.php
 /composer.phar
 .tx/
 .phpunit.cache
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
